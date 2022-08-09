@@ -1,4 +1,4 @@
-EC2-instance
+AWS-CLI-EC2-instance
 
 Launching an EC2 instance using AWS CLI
 
